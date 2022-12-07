@@ -60,11 +60,6 @@ Here are some informations about me 👉
 
 ----
 
-  <div align="center"><b>⚡ Recent GitHub Activity</b></div>
-  <br/>
-   <a href="https://github.com/Labmember7"><img alt="Bacem Zarai's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Labmember7&custom_title=Bacem%20Zarai%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <br/>
 
