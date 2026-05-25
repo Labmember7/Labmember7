@@ -52,4 +52,50 @@ projects:
   - name: "Energy Solutions"
     color: "#ffd23c"
     accent: "#5a3a00"
-    desc: "R&D for 
+    desc: "R&D for the energy industry"
+    details: "Contribution to innovative solutions for the energy sector, with attention to product quality, technical constraints, and real-world deployment needs."
+    stack: ["R&D", "Industrial Systems", "Integration", "Validation"]
+    pattern: "stripes"
+    radius: 11
+    speed: 0.09
+    size: 1.25
+
+  - name: "Multidisciplinary Delivery"
+    color: "#ff7ac6"
+    accent: "#4a0a2a"
+    desc: "Cross-team product collaboration"
+    details: "Collaboration with multidisciplinary teams and clients to deliver high-quality products aligned with market needs and engineering standards."
+    stack: ["Collaboration", "Product Thinking", "Client Delivery", "Standards"]
+    pattern: "gas"
+    radius: 14
+    speed: -0.07
+    size: 1.0
+
+  - name: "Applied Engineering"
+    color: "#ff8a3c"
+    accent: "#5a1a00"
+    desc: "From concept to implementation"
+    details: "Hands-on engineering approach spanning software, embedded environments, and practical implementation of technical solutions."
+    stack: ["Linux", "Automation", "Software Engineering", "Problem Solving"]
+    pattern: "lava"
+    radius: 17
+    speed: 0.05
+    size: 1.15
+
+skills:
+  - "Embedded Systems"
+  - "Web Development"
+  - "Full-Stack Engineering"
+  - "Research & Development"
+  - "Embedded Linux"
+  - "JavaScript"
+  - "Node.js"
+  - "Fastify"
+  - "Nginx"
+  - "Git"
+---
+
+# Bacem Zarai — Embedded & Web Portfolio
+
+Edit this file to customize the 3D portfolio experience for Bacem Zarai, Research And Development Engineer and Full-Stack Engineer (Embedded & Web) at ACTIA Energy, based in Pertuis, Provence-Alpes-Côte d'Azur, France.
+[LinkedIn](https://www.linkedin.com/in/zaraibacem/) · [GitHub](https://github.com/Labmember7)
