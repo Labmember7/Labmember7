@@ -11,11 +11,13 @@ experiences:
     accent: "#4a0a2a"
     name: "Freelance Dev"
     year: "2020"
+    place: "Remote"
     pattern: "grid"
   - z: -60
     color: "#7fd1ff"
     accent: "#0b2a4a"
     name: "VR Engineer"
+    place: "Lanterns Studio"
     year: "2020"
     pattern: "ice"
   - z: -90
@@ -24,18 +26,21 @@ experiences:
     name: "Full-Stack Dev"
     year: "2021"
     pattern: "stripes"
+    place: "Tunisia"
   - z: -120
     color: "#af52ff"
     accent: "#2a0a4a"
     name: "R&D Intern 5G/6G"
     year: "2022"
     pattern: "gas"
+    place: "Montreal"
   - z: -150
     color: "#3da9ff"
     accent: "#06203d"
     name: "R&D Engineer"
     year: "2023 → now"
     pattern: "grid"
+    place: "Marseille"
 projects:
   - name: "5G/6G MARL"
     color: "#af52ff"
