@@ -98,6 +98,7 @@ projects:
     speed: 0.05
     size: 1.15
 skills:
+technical:
   - "C / C++"
   - "Python"
   - "JavaScript"
@@ -110,6 +111,12 @@ skills:
   - "Git"
   - "NLP"
   - "Unity"
+  soft:
+    - "Leadership"
+    - "Communication"
+    - "Problem Solving"
+    - "Teamwork"
+    - "Adaptability"
 ---
 # A Cosmic Journey
 Edit this file to change every piece of content in the 3D portfolio.
