@@ -98,19 +98,19 @@ projects:
     speed: 0.05
     size: 1.15
 skills:
-technical:
-  - "C / C++"
-  - "Python"
-  - "JavaScript"
-  - "C#"
-  - "Flask"
-  - "VueJS"
-  - "Docker"
-  - "PyTorch"
-  - "Linux"
-  - "Git"
-  - "NLP"
-  - "Unity"
+  technical:
+    - "C / C++"
+    - "Python"
+    - "JavaScript"
+    - "C#"
+    - "Flask"
+    - "VueJS"
+    - "Docker"
+    - "PyTorch"
+    - "Linux"
+    - "Git"
+    - "NLP"
+    - "Unity"
   soft:
     - "Leadership"
     - "Communication"
