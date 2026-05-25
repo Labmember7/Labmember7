@@ -1,7 +1,7 @@
 ---
 brand:
   name: "Bacem Zarai"
-  tagline: "embedded · WEB · AI"
+  tagline: "Software architect"
   email: "basemzarai@gmail.com"
   linkedin: "https://www.linkedin.com/in/zaraibacem/"
   github: "https://github.com/Labmember7"
@@ -12,30 +12,39 @@ experiences:
     name: "Freelance Dev"
     year: "2020"
     pattern: "grid"
+    description: "Worked as a software developer for multiple clients around the world on Upwork, achieving top ratings. Main tasks included fixing bugs, adding features, and deploying changes."
+
   - place: "Tunisia 1.0"
     color: "#7fd1ff"
     accent: "#0b2a4a"
     name: "VR Engineer"
     year: "2020"
     pattern: "gas"
+    description: "Reverse engineered an existing hand tracking-based VR application at Lanterns Studios and implemented a gesture detection feature using C#/Unity."
+
   - place: "Tunisia 2.0"
     color: "#ffd23c"
     accent: "#5a3a00"
     name: "Full-Stack Dev"
     year: "2021"
     pattern: "stripes"
+    description: "Designed and implemented a full-stack AI-based web application at E-Lancicom using Flask for the back-end, VueJS for the front-end, and a Dockerized NLP model integrated end-to-end."
+
   - place: "Canada"
     color: "#af52ff"
     accent: "#2a0a4a"
     name: "R&D Intern 5G/6G"
     year: "2022"
     pattern: "ice"
+    description: "Designed and implemented a multi-agent deep reinforcement learning algorithm based on cooperative learning to maximize user–base-station associations in future cellular networks at the Université du Québec à Montréal."
+
   - place: "France"
     color: "#3da9ff"
     accent: "#06203d"
     name: "R&D Engineer"
     year: "2023 → now"
     pattern: "grid"
+    description: "Research and Development Engineer at ACTIA Energy, designing and implementing innovative solutions for the energy industry. Collaborates with multidisciplinary teams and clients to deliver high-quality embedded and software products."
 projects:
   - name: "5G/6G MARL"
     color: "#af52ff"
