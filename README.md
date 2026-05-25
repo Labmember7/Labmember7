@@ -3,6 +3,7 @@ brand:
   name: "Bacem Zarai"
   tagline: "Software architect"
   email: "basemzarai@gmail.com"
+  description: "R&D Engineer at ACTIA Energy with a background in network engineering, embedded systems, and AI. Experienced across VR, full-stack web, deep reinforcement learning, and 5G/6G research building where hardware meets intelligence."
   linkedin: "https://www.linkedin.com/in/zaraibacem/"
   github: "https://github.com/Labmember7"
 experiences:
