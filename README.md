@@ -106,15 +106,15 @@ projects:
 skills:
   technical:
     - "JavaScript / TypeScript"
-    - "Python"
+    - "Node.js / Fastify"
     - "C / C++"
     - "C#"
-    - "Node.js / Fastify"
+    - "Python"
     - "Flask"
     - "VueJS"
     - "Symfony / Laravel"
-    - "Docker"
     - "Linux / Yocto / Buildroot"
+    - "Docker"
     - "Git"
     - "Unity"
   soft:
