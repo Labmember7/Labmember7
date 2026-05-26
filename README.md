@@ -105,20 +105,17 @@ projects:
 
 skills:
   technical:
-    - "C / C++"
-    - "Embedded C"
-    - "Python"
     - "JavaScript / TypeScript"
+    - "Python"
+    - "C / C++"
     - "C#"
     - "Node.js / Fastify"
     - "Flask"
     - "VueJS"
     - "Symfony / Laravel"
     - "Docker"
-    - "PyTorch"
     - "Linux / Yocto / Buildroot"
     - "Git"
-    - "JSONata"
     - "Unity"
   soft:
     - "Technical Leadership"
@@ -126,6 +123,8 @@ skills:
     - "Problem Solving"
     - "Teamwork"
     - "Adaptability"
+    - "Time managment"
+    - "Risk management"
 
 achievements:
   - name: "CPSA-F Software Architect"
