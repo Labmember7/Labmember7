@@ -1,7 +1,7 @@
 ---
 brand:
   name: "Bacem Zarai"
-  tagline: "embedded · WEB · vision"
+  tagline: "Software Architect"
   email: "basemzarai@gmail.com"
   description: "Full-Stack Engineer (Embedded & Web) and R&D Engineer at ACTIA Energy, bridging embedded Linux, web applications, and AI. Focused on HMI/configurator, energy systems, and modern tooling from Yocto/Buildroot to cloud deployment."
   linkedin: "https://www.linkedin.com/in/zaraibacem/"
